@@ -1,0 +1,101 @@
+Shipment_ID,Order_Date,Dispatch_Date,Delivery_Date,Origin,Destination,Distance_km,Vehicle_Type,Shipment_Weight_kg,Carrier,Expected_Delivery_Hours,Actual_Delivery_Hours,Shipping_Cost,Delay_Hours,Delivery_Status
+SHP1001,2026-01-01,2026-01-01,2026-01-02,Hyderabad Warehouse,Bengaluru,142,Mini Truck,266,RapidRoute,4.8,11.3,2403.26,6.5,Delayed
+SHP1002,2026-01-03,2026-01-04,2026-01-05,Hyderabad Warehouse,Hyderabad,475,Container Truck,813,SafeMove Logistics,10.1,10.1,6646.76,0.0,On-Time
+SHP1003,2026-01-05,2026-01-06,2026-01-07,Bengaluru Warehouse,Hyderabad,310,Truck,237,RapidRoute,7.6,13.3,3071.29,5.7,Delayed
+SHP1004,2026-01-07,2026-01-09,2026-01-10,Bengaluru Warehouse,Hyderabad,146,Mini Truck,429,SwiftLogistics,5.6,7.8,2316.52,2.2,Delayed
+SHP1005,2026-01-09,2026-01-10,2026-01-11,Chennai Warehouse,Kochi,111,Van,542,SwiftLogistics,5.2,5.2,1954.68,0.0,On-Time
+SHP1006,2026-01-11,2026-01-11,2026-01-12,Coimbatore Warehouse,Hyderabad,740,Mini Truck,1114,RapidRoute,14.9,18.5,8478.48,3.6,Delayed
+SHP1007,2026-01-13,2026-01-14,2026-01-15,Coimbatore Warehouse,Chennai,60,Mini Truck,1230,RapidRoute,4.9,16.2,3686.52,11.3,Delayed
+SHP1008,2026-01-15,2026-01-17,2026-01-18,Hyderabad Warehouse,Kochi,654,Container Truck,64,SafeMove Logistics,13.1,13.5,6108.93,0.4,On-Time
+SHP1009,2026-01-17,2026-01-19,2026-01-20,Hyderabad Warehouse,Chennai,161,Container Truck,114,BlueDart Transport,5.3,7.7,2748.63,2.4,Delayed
+SHP1010,2026-01-19,2026-01-20,2026-01-21,Hyderabad Warehouse,Kochi,506,Truck,570,RapidRoute,12.1,13.1,4747.48,1.0,Delayed
+SHP1011,2026-01-21,2026-01-23,2026-01-24,Bengaluru Warehouse,Trichy,254,Van,1417,SwiftLogistics,8.1,10.6,5132.82,2.5,Delayed
+SHP1012,2026-01-23,2026-01-23,2026-01-24,Bengaluru Warehouse,Coimbatore,370,Container Truck,1202,SafeMove Logistics,8.9,13.1,6821.81,4.2,Delayed
+SHP1013,2026-01-25,2026-01-25,2026-01-26,Hyderabad Warehouse,Madurai,498,Mini Truck,697,RapidRoute,10.2,17.2,5744.69,7.0,Delayed
+SHP1014,2026-01-27,2026-01-28,2026-01-29,Hyderabad Warehouse,Hyderabad,127,Truck,1545,SwiftLogistics,6.3,6.3,4691.58,0.0,On-Time
+SHP1015,2026-01-29,2026-01-30,2026-01-31,Hyderabad Warehouse,Trichy,412,Mini Truck,1136,SwiftLogistics,9.7,18.3,5798.32,8.6,Delayed
+SHP1016,2026-01-31,2026-02-01,2026-02-02,Coimbatore Warehouse,Coimbatore,139,Mini Truck,1212,BlueDart Transport,6.4,6.4,4195.1,0.0,On-Time
+SHP1017,2026-02-02,2026-02-04,2026-02-05,Bengaluru Warehouse,Madurai,703,Container Truck,1572,SafeMove Logistics,14.6,16.3,9592.45,1.7,Delayed
+SHP1018,2026-02-04,2026-02-04,2026-02-05,Coimbatore Warehouse,Salem,170,Truck,642,SafeMove Logistics,5.9,9.9,2606.03,4.0,Delayed
+SHP1019,2026-02-06,2026-02-06,2026-02-07,Coimbatore Warehouse,Bengaluru,701,Van,441,BlueDart Transport,13.0,16.0,6421.75,3.0,Delayed
+SHP1020,2026-02-08,2026-02-10,2026-02-11,Hyderabad Warehouse,Chennai,348,Van,1748,BlueDart Transport,8.7,9.0,6727.18,0.3,On-Time
+SHP1021,2026-02-10,2026-02-10,2026-02-11,Hyderabad Warehouse,Salem,809,Container Truck,468,SafeMove Logistics,14.7,16.3,8388.27,1.6,Delayed
+SHP1022,2026-02-12,2026-02-13,2026-02-14,Chennai Warehouse,Kochi,383,Container Truck,338,SafeMove Logistics,9.2,9.9,4407.1,0.7,Delayed
+SHP1023,2026-02-14,2026-02-15,2026-02-16,Chennai Warehouse,Madurai,531,Truck,428,RapidRoute,11.0,11.4,5141.27,0.4,On-Time
+SHP1024,2026-02-16,2026-02-17,2026-02-18,Coimbatore Warehouse,Salem,453,Van,1563,RapidRoute,10.2,14.9,6975.07,4.7,Delayed
+SHP1025,2026-02-18,2026-02-18,2026-02-19,Bengaluru Warehouse,Bengaluru,845,Van,280,BlueDart Transport,15.4,18.7,6846.69,3.3,Delayed
+SHP1026,2026-02-20,2026-02-21,2026-02-22,Hyderabad Warehouse,Trichy,425,Van,1067,RapidRoute,10.2,10.3,5872.62,0.1,On-Time
+SHP1027,2026-02-22,2026-02-24,2026-02-25,Hyderabad Warehouse,Madurai,231,Mini Truck,90,SwiftLogistics,5.9,10.8,2489.04,4.9,Delayed
+SHP1028,2026-02-24,2026-02-26,2026-02-27,Coimbatore Warehouse,Salem,316,Van,1101,RapidRoute,8.5,11.6,4964.63,3.1,Delayed
+SHP1029,2026-02-26,2026-02-26,2026-02-27,Chennai Warehouse,Chennai,200,Mini Truck,184,RapidRoute,6.0,10.6,2790.17,4.6,Delayed
+SHP1030,2026-02-28,2026-03-02,2026-03-03,Bengaluru Warehouse,Chennai,499,Truck,250,SwiftLogistics,9.8,13.9,4487.96,4.1,Delayed
+SHP1031,2026-03-02,2026-03-04,2026-03-05,Chennai Warehouse,Coimbatore,353,Mini Truck,829,BlueDart Transport,8.9,8.9,4620.83,0.0,On-Time
+SHP1032,2026-03-04,2026-03-04,2026-03-05,Chennai Warehouse,Salem,61,Truck,979,SwiftLogistics,5.0,5.5,2826.18,0.5,On-Time
+SHP1033,2026-03-06,2026-03-07,2026-03-08,Chennai Warehouse,Hyderabad,292,Van,1106,RapidRoute,8.6,13.0,4671.13,4.4,Delayed
+SHP1034,2026-03-08,2026-03-09,2026-03-10,Chennai Warehouse,Salem,787,Van,1121,BlueDart Transport,15.7,19.7,8330.74,4.0,Delayed
+SHP1035,2026-03-10,2026-03-11,2026-03-12,Hyderabad Warehouse,Trichy,600,Truck,552,RapidRoute,11.3,13.4,5570.68,2.1,Delayed
+SHP1036,2026-03-12,2026-03-12,2026-03-13,Hyderabad Warehouse,Madurai,514,Container Truck,456,SwiftLogistics,10.3,12.9,5910.52,2.6,Delayed
+SHP1037,2026-03-14,2026-03-16,2026-03-17,Chennai Warehouse,Madurai,98,Truck,1647,SwiftLogistics,6.0,12.0,4628.67,6.0,Delayed
+SHP1038,2026-03-16,2026-03-17,2026-03-18,Bengaluru Warehouse,Trichy,550,Container Truck,854,RapidRoute,11.8,22.2,6482.7,10.4,Delayed
+SHP1039,2026-03-18,2026-03-19,2026-03-20,Coimbatore Warehouse,Salem,721,Mini Truck,148,SafeMove Logistics,13.7,17.5,5926.51,3.8,Delayed
+SHP1040,2026-03-20,2026-03-20,2026-03-21,Bengaluru Warehouse,Trichy,515,Mini Truck,733,SafeMove Logistics,12.9,14.5,5707.83,1.6,Delayed
+SHP1041,2026-03-22,2026-03-23,2026-03-24,Bengaluru Warehouse,Bengaluru,739,Mini Truck,775,SwiftLogistics,14.5,16.0,7526.95,1.5,Delayed
+SHP1042,2026-03-24,2026-03-24,2026-03-25,Bengaluru Warehouse,Kochi,822,Van,1620,SwiftLogistics,16.7,22.2,10071.56,5.5,Delayed
+SHP1043,2026-03-26,2026-03-28,2026-03-29,Chennai Warehouse,Trichy,229,Mini Truck,1010,SafeMove Logistics,7.6,12.3,4432.64,4.7,Delayed
+SHP1044,2026-03-28,2026-03-28,2026-03-30,Hyderabad Warehouse,Chennai,726,Container Truck,662,SafeMove Logistics,14.2,29.8,7762.31,15.6,Delayed
+SHP1045,2026-03-30,2026-03-30,2026-03-31,Bengaluru Warehouse,Trichy,602,Mini Truck,1535,RapidRoute,12.7,18.8,7823.8,6.1,Delayed
+SHP1046,2026-04-01,2026-04-01,2026-04-02,Chennai Warehouse,Madurai,606,Truck,692,RapidRoute,12.6,14.9,6411.28,2.3,Delayed
+SHP1047,2026-04-03,2026-04-03,2026-04-04,Bengaluru Warehouse,Chennai,283,Truck,1078,SafeMove Logistics,7.6,11.8,4614.58,4.2,Delayed
+SHP1048,2026-04-05,2026-04-07,2026-04-08,Bengaluru Warehouse,Madurai,544,Van,1291,RapidRoute,11.7,13.0,6770.89,1.3,Delayed
+SHP1049,2026-04-07,2026-04-09,2026-04-10,Chennai Warehouse,Coimbatore,170,Truck,552,RapidRoute,5.6,8.8,3426.74,3.2,Delayed
+SHP1050,2026-04-09,2026-04-10,2026-04-11,Hyderabad Warehouse,Hyderabad,524,Container Truck,816,BlueDart Transport,11.2,13.0,6708.72,1.8,Delayed
+SHP1051,2026-04-11,2026-04-13,2026-04-14,Hyderabad Warehouse,Madurai,686,Mini Truck,447,RapidRoute,14.3,16.8,6171.27,2.5,Delayed
+SHP1052,2026-04-13,2026-04-15,2026-04-16,Coimbatore Warehouse,Chennai,60,Van,920,SwiftLogistics,3.7,7.7,2265.97,4.0,Delayed
+SHP1053,2026-04-15,2026-04-16,2026-04-17,Chennai Warehouse,Coimbatore,206,Mini Truck,844,RapidRoute,7.0,7.0,3918.45,0.0,On-Time
+SHP1054,2026-04-17,2026-04-19,2026-04-20,Coimbatore Warehouse,Madurai,313,Mini Truck,442,RapidRoute,7.0,15.5,3384.82,8.5,Delayed
+SHP1055,2026-04-19,2026-04-19,2026-04-20,Coimbatore Warehouse,Bengaluru,427,Container Truck,256,SafeMove Logistics,9.1,9.1,4919.16,0.0,On-Time
+SHP1056,2026-04-21,2026-04-21,2026-04-22,Coimbatore Warehouse,Trichy,640,Truck,1088,SwiftLogistics,13.6,13.6,7584.96,0.0,On-Time
+SHP1057,2026-04-23,2026-04-24,2026-04-25,Hyderabad Warehouse,Hyderabad,355,Truck,1627,RapidRoute,9.5,15.2,6179.63,5.7,Delayed
+SHP1058,2026-04-25,2026-04-26,2026-04-27,Chennai Warehouse,Madurai,53,Mini Truck,941,RapidRoute,4.0,8.6,2827.57,4.6,Delayed
+SHP1059,2026-04-27,2026-04-28,2026-04-29,Coimbatore Warehouse,Coimbatore,281,Van,1534,BlueDart Transport,7.9,12.0,6075.55,4.1,Delayed
+SHP1060,2026-04-29,2026-04-29,2026-04-30,Chennai Warehouse,Bengaluru,816,Truck,1764,RapidRoute,16.5,20.6,9415.41,4.1,Delayed
+SHP1061,2026-05-01,2026-05-03,2026-05-04,Chennai Warehouse,Salem,385,Van,1648,RapidRoute,9.5,11.7,6480.17,2.2,Delayed
+SHP1062,2026-05-03,2026-05-03,2026-05-04,Hyderabad Warehouse,Coimbatore,604,Truck,913,BlueDart Transport,12.5,12.5,6489.96,0.0,On-Time
+SHP1063,2026-05-05,2026-05-06,2026-05-07,Coimbatore Warehouse,Trichy,379,Van,792,SafeMove Logistics,9.1,11.5,4795.27,2.4,Delayed
+SHP1064,2026-05-07,2026-05-09,2026-05-10,Coimbatore Warehouse,Coimbatore,131,Container Truck,1314,RapidRoute,5.6,5.8,4990.65,0.2,On-Time
+SHP1065,2026-05-09,2026-05-11,2026-05-12,Chennai Warehouse,Bengaluru,406,Van,613,BlueDart Transport,10.4,15.5,4395.18,5.1,Delayed
+SHP1066,2026-05-11,2026-05-11,2026-05-12,Bengaluru Warehouse,Coimbatore,494,Container Truck,1070,SwiftLogistics,11.3,13.1,6940.21,1.8,Delayed
+SHP1067,2026-05-13,2026-05-14,2026-05-15,Hyderabad Warehouse,Bengaluru,467,Container Truck,145,SafeMove Logistics,8.8,8.8,4773.59,0.0,On-Time
+SHP1068,2026-05-15,2026-05-15,2026-05-16,Hyderabad Warehouse,Madurai,548,Van,534,SwiftLogistics,11.4,16.8,5429.3,5.4,Delayed
+SHP1069,2026-05-17,2026-05-19,2026-05-20,Hyderabad Warehouse,Kochi,815,Container Truck,1480,SwiftLogistics,15.5,18.9,10330.56,3.4,Delayed
+SHP1070,2026-05-19,2026-05-19,2026-05-20,Hyderabad Warehouse,Bengaluru,74,Mini Truck,280,BlueDart Transport,4.7,5.2,1798.44,0.5,On-Time
+SHP1071,2026-05-21,2026-05-21,2026-05-22,Coimbatore Warehouse,Bengaluru,245,Container Truck,798,RapidRoute,6.8,17.6,5003.63,10.8,Delayed
+SHP1072,2026-05-23,2026-05-24,2026-05-25,Coimbatore Warehouse,Hyderabad,120,Truck,1728,BlueDart Transport,6.1,9.0,5106.21,2.9,Delayed
+SHP1073,2026-05-25,2026-05-26,2026-05-27,Bengaluru Warehouse,Bengaluru,601,Van,1244,BlueDart Transport,12.9,15.8,7171.11,2.9,Delayed
+SHP1074,2026-05-27,2026-05-29,2026-05-30,Hyderabad Warehouse,Bengaluru,427,Mini Truck,590,BlueDart Transport,10.0,10.7,4762.58,0.7,Delayed
+SHP1075,2026-05-29,2026-05-29,2026-05-30,Hyderabad Warehouse,Salem,41,Van,1109,BlueDart Transport,3.9,4.7,3667.68,0.8,Delayed
+SHP1076,2026-05-31,2026-05-31,2026-06-01,Chennai Warehouse,Kochi,429,Truck,574,SafeMove Logistics,9.4,12.3,4997.83,2.9,Delayed
+SHP1077,2026-06-02,2026-06-02,2026-06-03,Coimbatore Warehouse,Madurai,605,Truck,1233,RapidRoute,12.4,12.4,7285.17,0.0,On-Time
+SHP1078,2026-06-04,2026-06-06,2026-06-07,Hyderabad Warehouse,Trichy,145,Truck,1772,SwiftLogistics,6.2,6.2,5610.71,0.0,On-Time
+SHP1079,2026-06-06,2026-06-08,2026-06-09,Bengaluru Warehouse,Hyderabad,811,Container Truck,1316,SwiftLogistics,16.6,16.6,9805.78,0.0,On-Time
+SHP1080,2026-06-08,2026-06-09,2026-06-10,Bengaluru Warehouse,Salem,516,Container Truck,1159,RapidRoute,11.5,13.1,7282.0,1.6,Delayed
+SHP1081,2026-06-10,2026-06-11,2026-06-12,Coimbatore Warehouse,Chennai,742,Van,627,SwiftLogistics,13.5,21.7,7458.03,8.2,Delayed
+SHP1082,2026-06-12,2026-06-13,2026-06-14,Bengaluru Warehouse,Kochi,441,Van,731,RapidRoute,10.4,17.0,4832.89,6.6,Delayed
+SHP1083,2026-06-14,2026-06-14,2026-06-15,Bengaluru Warehouse,Madurai,769,Mini Truck,606,SwiftLogistics,15.6,20.4,6780.96,4.8,Delayed
+SHP1084,2026-06-16,2026-06-16,2026-06-17,Coimbatore Warehouse,Madurai,595,Mini Truck,1647,BlueDart Transport,13.4,15.1,8428.02,1.7,Delayed
+SHP1085,2026-06-18,2026-06-19,2026-06-20,Hyderabad Warehouse,Chennai,201,Van,1062,SwiftLogistics,6.0,16.3,4134.32,10.3,Delayed
+SHP1086,2026-06-20,2026-06-20,2026-06-21,Hyderabad Warehouse,Trichy,241,Container Truck,695,RapidRoute,6.8,15.2,4526.54,8.4,Delayed
+SHP1087,2026-06-22,2026-06-23,2026-06-24,Bengaluru Warehouse,Bengaluru,309,Truck,845,RapidRoute,8.8,10.9,4358.94,2.1,Delayed
+SHP1088,2026-06-24,2026-06-26,2026-06-27,Bengaluru Warehouse,Salem,310,Van,1101,RapidRoute,8.0,9.3,4934.48,1.3,Delayed
+SHP1089,2026-06-26,2026-06-27,2026-06-28,Hyderabad Warehouse,Coimbatore,495,Mini Truck,1693,RapidRoute,11.7,14.9,7454.77,3.2,Delayed
+SHP1090,2026-06-28,2026-06-30,2026-07-01,Coimbatore Warehouse,Hyderabad,501,Container Truck,1629,RapidRoute,11.9,11.9,8171.6,0.0,On-Time
+SHP1091,2026-06-30,2026-06-30,2026-07-02,Bengaluru Warehouse,Coimbatore,766,Van,1413,SafeMove Logistics,14.7,25.7,8837.02,11.0,Delayed
+SHP1092,2026-07-02,2026-07-03,2026-07-04,Chennai Warehouse,Chennai,291,Van,1404,SafeMove Logistics,8.3,15.1,5390.24,6.8,Delayed
+SHP1093,2026-07-04,2026-07-04,2026-07-05,Coimbatore Warehouse,Madurai,741,Container Truck,1713,SwiftLogistics,13.4,15.3,10025.35,1.9,Delayed
+SHP1094,2026-07-06,2026-07-08,2026-07-09,Bengaluru Warehouse,Trichy,335,Van,1579,RapidRoute,8.6,22.2,6041.61,13.6,Delayed
+SHP1095,2026-07-08,2026-07-10,2026-07-11,Bengaluru Warehouse,Madurai,764,Container Truck,1421,SwiftLogistics,15.0,19.3,9159.21,4.3,Delayed
+SHP1096,2026-07-10,2026-07-12,2026-07-13,Chennai Warehouse,Hyderabad,759,Truck,1546,RapidRoute,14.5,15.5,9332.56,1.0,Delayed
+SHP1097,2026-07-12,2026-07-12,2026-07-13,Chennai Warehouse,Madurai,788,Container Truck,1304,RapidRoute,16.2,19.1,9809.56,2.9,Delayed
+SHP1098,2026-07-14,2026-07-14,2026-07-15,Hyderabad Warehouse,Madurai,377,Container Truck,239,SafeMove Logistics,7.9,10.1,4495.07,2.2,Delayed
+SHP1099,2026-07-16,2026-07-16,2026-07-17,Coimbatore Warehouse,Hyderabad,92,Container Truck,1298,SafeMove Logistics,5.2,7.7,4747.53,2.5,Delayed
+SHP1100,2026-07-18,2026-07-18,2026-07-19,Coimbatore Warehouse,Salem,831,Van,1458,BlueDart Transport,16.2,16.2,9563.39,0.0,On-Time
